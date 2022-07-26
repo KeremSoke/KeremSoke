@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeremSoke
-- 👀 I’m interested in RPi, Linux and Linux apps.
+- 👀 I’m interested in RPi, GNU/Linux and GNU/Linux apps.
 - 🌱 I’m currently learning C & Python.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me keremsoke@onionmail.org
