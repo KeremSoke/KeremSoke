@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KeremSoke
-- 👀 I’m interested in RPi, GNU/Linux and GNU/Linux apps.
-- 🌱 I’m currently learning C & Python.
+- 👀 I’m really into GNU operating systems.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 You can reach me keremsoke@onionmail.org
+- 🧉 MATE 💞️
 
 <!---
 KeremSoke/KeremSoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
