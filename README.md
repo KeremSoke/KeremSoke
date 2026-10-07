@@ -1,5 +1,7 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- GNU systems & MATE
+- GNU systems 🦬
+- MATE 🧉
+- X11 rulezz 💪💪
 
 <!---
 KeremSoke/KeremSoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
