@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KeremSoke
-- 👀 I’m really into GNU operating systems.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 🧉 MATE 💞️
+- GNU systems & MATE
 
 <!---
 KeremSoke/KeremSoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
