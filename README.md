@@ -1,8 +1,5 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- GNU & MATE 🦬🧉
-- X11 rulezz 💪💪
-- Check out my packaging repos for cool MATE stuff for Debian stable!
-
+- X11 rulezz 💪💪 (but i ended up being a wayland dev)
 - Who wants Vala kernel drivers?
 
 <!---
